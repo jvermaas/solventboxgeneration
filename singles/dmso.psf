@@ -1,0 +1,63 @@
+PSF EXT CMAP CHEQ XPLOR
+
+         2 !NTITLE
+* NONE *                                                                        
+*  DATE:     7/ 5/20     15:31:28      CREATED BY USER: 2vv                     
+
+        10 !NATOM
+         1 LIGM     1        DMSO     O1       OG2P1   -0.550000       15.9994           0   0.00000     -0.301140E-02
+         2 LIGM     1        DMSO     S2       SG3O3    0.310000       32.0600           0   0.00000     -0.301140E-02
+         3 LIGM     1        DMSO     C3       CG331   -0.150000       12.0110           0   0.00000     -0.301140E-02
+         4 LIGM     1        DMSO     H4       HGA3     0.900000E-01   1.00800           0   0.00000     -0.301140E-02
+         5 LIGM     1        DMSO     H5       HGA3     0.900000E-01   1.00800           0   0.00000     -0.301140E-02
+         6 LIGM     1        DMSO     H6       HGA3     0.900000E-01   1.00800           0   0.00000     -0.301140E-02
+         7 LIGM     1        DMSO     C7       CG331   -0.150000       12.0110           0   0.00000     -0.301140E-02
+         8 LIGM     1        DMSO     H8       HGA3     0.900000E-01   1.00800           0   0.00000     -0.301140E-02
+         9 LIGM     1        DMSO     H9       HGA3     0.900000E-01   1.00800           0   0.00000     -0.301140E-02
+        10 LIGM     1        DMSO     H10      HGA3     0.900000E-01   1.00800           0   0.00000     -0.301140E-02
+
+         9 !NBOND: bonds
+         1         2         2         3         2         7         3         4
+         3         5         3         6         7         8         7         9
+         7        10
+
+        15 !NTHETA: angles
+         1         2         3         1         2         7         3         2         7
+         2         3         4         2         3         5         2         3         6
+         4         3         5         4         3         6         5         3         6
+         2         7         8         2         7         9         2         7        10
+         8         7         9         8         7        10         9         7        10
+
+        12 !NPHI: dihedrals
+         1         2         3         4         1         2         3         5
+         1         2         3         6         1         2         7         8
+         1         2         7         9         1         2         7        10
+         3         2         7         8         3         2         7         9
+         3         2         7        10         4         3         2         7
+         5         3         2         7         6         3         2         7
+
+         0 !NIMPHI: impropers
+
+
+         0 !NDON: donors
+
+
+         0 !NACC: acceptors
+
+
+         0 !NNB
+
+         0         0         0         0         0         0         0         0
+         0         0
+
+         1         0 !NGRP NST2
+         0         1         0
+
+         1 !MOLNT
+         1         1         1         1         1         1         1         1
+         1         1
+
+         0         0 !NUMLP NUMLPH
+
+         0 !NCRTERM: cross-terms
+

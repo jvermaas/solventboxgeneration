@@ -1,0 +1,8 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     7/ 5/20     15:31:24      CREATED BY USER: 2vv                     
+ATOM      1  N1  AMM1    1       1.026   0.002   0.019  1.00  0.00      LIGM
+ATOM      2  H11 AMM1    1       0.013  -0.010  -0.021  1.00  0.00      LIGM
+ATOM      3  H12 AMM1    1       1.313   0.975  -0.001  1.00  0.00      LIGM
+ATOM      4  H13 AMM1    1       1.363  -0.425  -0.837  1.00  0.00      LIGM
+TER       5      AMM1     1
+END

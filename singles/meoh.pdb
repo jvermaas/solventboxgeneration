@@ -1,0 +1,10 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     7/ 5/20     15:31:25      CREATED BY USER: 2vv                     
+ATOM      1  CB  MEOH    1      -0.003  -0.006  -0.000  1.00  0.00      LIGM
+ATOM      2  OG  MEOH    1       1.423   0.008  -0.000  1.00  0.00      LIGM
+ATOM      3  HG1 MEOH    1       1.713   0.926   0.000  1.00  0.00      LIGM
+ATOM      4  HB1 MEOH    1      -0.364  -1.058  -0.000  1.00  0.00      LIGM
+ATOM      5  HB2 MEOH    1      -0.397   0.503  -0.907  1.00  0.00      LIGM
+ATOM      6  HB3 MEOH    1      -0.397   0.503   0.907  1.00  0.00      LIGM
+TER       7      MEOH     1
+END

@@ -1,0 +1,24 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     7/ 5/20     15:31:27      CREATED BY USER: 2vv                     
+ATOM      1  H11 HEXA    1      -0.407  -1.032   0.000  1.00  0.00      LIGM
+ATOM      2  H12 HEXA    1      -0.381   0.529   0.901  1.00  0.00      LIGM
+ATOM      3  H13 HEXA    1      -0.381   0.529  -0.901  1.00  0.00      LIGM
+ATOM      4  C1  HEXA    1      -0.000   0.002   0.000  1.00  0.00      LIGM
+ATOM      5  H21 HEXA    1       1.889  -0.574  -0.898  1.00  0.00      LIGM
+ATOM      6  H22 HEXA    1       1.889  -0.574   0.898  1.00  0.00      LIGM
+ATOM      7  C2  HEXA    1       1.530  -0.020   0.000  1.00  0.00      LIGM
+ATOM      8  H31 HEXA    1       1.809   1.935   0.899  1.00  0.00      LIGM
+ATOM      9  H32 HEXA    1       1.809   1.935  -0.899  1.00  0.00      LIGM
+ATOM     10  C3  HEXA    1       2.159   1.379   0.000  1.00  0.00      LIGM
+ATOM     11  H41 HEXA    1       4.045   0.785  -0.899  1.00  0.00      LIGM
+ATOM     12  H42 HEXA    1       4.045   0.785   0.899  1.00  0.00      LIGM
+ATOM     13  C4  HEXA    1       3.694   1.341  -0.000  1.00  0.00      LIGM
+ATOM     14  H51 HEXA    1       3.965   3.294   0.898  1.00  0.00      LIGM
+ATOM     15  H52 HEXA    1       3.965   3.294  -0.898  1.00  0.00      LIGM
+ATOM     16  C5  HEXA    1       4.323   2.740  -0.000  1.00  0.00      LIGM
+ATOM     17  H61 HEXA    1       6.260   3.752  -0.000  1.00  0.00      LIGM
+ATOM     18  H62 HEXA    1       6.234   2.191   0.901  1.00  0.00      LIGM
+ATOM     19  H63 HEXA    1       6.234   2.191  -0.901  1.00  0.00      LIGM
+ATOM     20  C6  HEXA    1       5.854   2.718  -0.000  1.00  0.00      LIGM
+TER      21      HEXA     1
+END

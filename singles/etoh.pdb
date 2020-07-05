@@ -1,0 +1,13 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     7/ 5/20     15:31:26      CREATED BY USER: 2vv                     
+ATOM      1  C1  ETOH    1      -0.016   0.016  -0.000  1.00  0.00      LIGM
+ATOM      2  O1  ETOH    1       1.404  -0.017   0.000  1.00  0.00      LIGM
+ATOM      3  HO1 ETOH    1       1.717   0.892   0.000  1.00  0.00      LIGM
+ATOM      4  H11 ETOH    1      -0.380   0.551   0.906  1.00  0.00      LIGM
+ATOM      5  H12 ETOH    1      -0.380   0.551  -0.906  1.00  0.00      LIGM
+ATOM      6  C2  ETOH    1      -0.523  -1.421  -0.000  1.00  0.00      LIGM
+ATOM      7  H21 ETOH    1      -1.633  -1.446  -0.000  1.00  0.00      LIGM
+ATOM      8  H22 ETOH    1      -0.156  -1.961   0.900  1.00  0.00      LIGM
+ATOM      9  H23 ETOH    1      -0.156  -1.961  -0.900  1.00  0.00      LIGM
+TER      10      ETOH     1
+END

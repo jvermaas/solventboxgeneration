@@ -1,0 +1,14 @@
+ioformat extended
+read rtf card name top_all36_cgenff.rtf
+bomlev -2
+read para card name par_all36_cgenff.prm
+bomlev 0
+read sequence hexa 1
+generate ligm first none last none angle dihe setup
+write psf card name singles/hexa.psf
+ic param
+ic seed 1 c1 1 c2 1 c3
+ic build
+mini sd nstep 5000
+write coor pdb name singles/hexa.pdb
+stop
