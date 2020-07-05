@@ -1,4 +1,4 @@
-# Solvetn Box Generation
+# Solvent Box Generation
 Here are scripts and tools to generate solvent boxes suitable for use with the VMD solvate plugin.
 
 ## Prerequisites 
